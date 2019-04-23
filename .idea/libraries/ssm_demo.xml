@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ssm_demo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/ssm_demo.war!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
